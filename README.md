@@ -1,0 +1,2 @@
+# YouTube2xExtension
+With this extension you can make video 2x by just one click so you dont need to click 2 -3 times again and again just one click and the part you alredy know will skiped 
