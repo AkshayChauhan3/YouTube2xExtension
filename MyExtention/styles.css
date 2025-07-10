@@ -1,0 +1,23 @@
+#speedToggleButton {
+    background-color: #3939395b;
+    color: black;
+    border: none;
+    border-radius: 23%;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    opacity: 0.1;
+    transition: opacity 0.3s ease;
+  }
+  
+  #speedToggleButton:hover {
+    opacity: 1;
+  }
+  
+  #speedToggleButton:active {
+    transform: scale(0.95);
+  }
+  
